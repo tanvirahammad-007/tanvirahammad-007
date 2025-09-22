@@ -25,3 +25,10 @@
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tanvirahammad-007/tanvirahammad-007/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
+<div align="center">
+
+*"Clean code always looks like it was written by someone who cares." - Robert C. Martin*
+
+</div>
