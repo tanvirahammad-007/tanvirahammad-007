@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirahammad-007&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirahammad-007" /> </p>
 
-- 🌱 I’m currently learning **JavaScript ,Node.Js , Python, C & C++**
+- 🌱 I’m currently learning **JavaScript, Python, C & C++**
 
 - 📫 How to reach me **tanvirahammad890@gmail.com**
 
