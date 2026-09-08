@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanvir</h1>
-<h3 align="center">I’m on a journey to become a skilled programmer by building projects, solving challenges, and learning something new every day.</h3>
+<h3 align="center">Just a programmer in the making, learning by building things, breaking things, figuring out how they work and try to make something better every day.</h3>
 <h5 align="center">"Hello World — the first step to infinite possibilities."</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirahammad-007&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirahammad-007" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Python, C & C++**
+- 🌱 Growing my skills in **JavaScript, Python, SQL, C, and C++** through projects and practice.
 
 - 📫 How to reach me **tanvirahammad890@gmail.com**
 
@@ -43,6 +43,9 @@
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
 
